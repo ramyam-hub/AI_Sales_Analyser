@@ -1,0 +1,30 @@
+
+============================================
+        AI SALES ANALYSIS REPORT
+============================================
+Total Revenue:       $3,865.74
+Total Orders:        10
+Average Order Value: $386.57
+Top Category:        Electronics
+Top City:            Atlanta
+
+REVENUE BY CATEGORY:
+category
+Electronics    2129.9645
+Furniture      1394.9845
+Clothing        189.9620
+Groceries       150.8300
+
+REVENUE BY CITY:
+city
+Atlanta    1962.3960
+Dallas      767.4825
+Seattle     599.8910
+Miami       535.9715
+
+AI ANOMALY DETECTION:
+Unusual transactions found: 2
+transaction_id    category  total_amount
+          T001 Electronics      1079.982
+          T007   Groceries        59.900
+============================================
